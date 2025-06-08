@@ -1,0 +1,11 @@
+tensorflow>=2.12.0
+gensim>=4.3.0
+scikit-learn>=1.2.0
+nltk>=3.7
+pandas
+numpy
+emoji
+matplotlib
+ftfy
+unidecode
+Sastrawi
